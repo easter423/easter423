@@ -3,8 +3,8 @@ easter423/easter423 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 # welcome! I'm Geonyeong Ha 🙌🙌
-I am a university student major in Computer Science💻. In my free time, I enjoy badminton🏸, billiards🎱, and board games🎲.<br>
-I enjoy learning new things related to Security. My favorite programming language is Python, but I also work with C. Now studying Java, too.
+I am a university student major in `Computer Science💻`. In my free time, I enjoy `badminton🏸`, `billiards🎱`, and `board games🎲`.<br>
+I enjoy learning new things related to `Security`. My favorite programming language is `Python`, but I also work with `C`. Now studying `Java`, too.
 
 ---
 
